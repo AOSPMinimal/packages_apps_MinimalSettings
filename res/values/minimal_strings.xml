@@ -18,6 +18,7 @@
 
     <!-- Minimal Settings -->
     <string name="minimal_settings_title">AOSP Minimal Settings</string>
+    <string name="minimal_dashboard_summary">"These aren't the droids you're looking for."</string>
 
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_icon_title">VoLTE icon</string>
